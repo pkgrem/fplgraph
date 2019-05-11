@@ -12,11 +12,17 @@ https://fantasy.premierleague.com/drf/entry/TEAMID/history
 The team IDs for players within my league were:
 
 John: 2380724
+
 Shano: 1602
+
 Paddy: 109481
+
 Kev: 216816
+
 Adam: 190049
+
 Dan: 30635
+
 Steve: 2712318
 
 So the graph would use 7 different references to graph the plot chart.
