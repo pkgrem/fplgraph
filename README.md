@@ -22,11 +22,17 @@ Steve: 2712318
 So the graph would use 7 different references to graph the plot chart.
 
 John: https://fantasy.premierleague.com/drf/entry/2380724/history
+
 Shano: https://fantasy.premierleague.com/drf/entry/1602/history
+
 Paddy: https://fantasy.premierleague.com/drf/entry/109481/history
+
 Kev: https://fantasy.premierleague.com/drf/entry/216816/history
+
 Adam: https://fantasy.premierleague.com/drf/entry/190049/history
+
 Dan: https://fantasy.premierleague.com/drf/entry/30635/history
+
 Steve: https://fantasy.premierleague.com/drf/entry/2712318/history
 
 The part of the API which you wish to map is 
